@@ -1,0 +1,38 @@
+{
+  "name": "pii-for-ai-agents",
+  "version": "0.1.0",
+  "description": "Portable project intelligence for AI agents",
+  "type": "module",
+  "bin": {
+    "pindex": "bin/pindex.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "core",
+    "templates",
+    "adapters",
+    "docs",
+    "LICENSE",
+    "README.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check bin/pindex.js && node --check src/cli.js && node --check src/install.js && npm test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ai-agents",
+    "project-memory",
+    "project-intelligence",
+    "codex",
+    "claude-code",
+    "gemini-cli",
+    "opencode"
+  ],
+  "license": "MIT"
+}
