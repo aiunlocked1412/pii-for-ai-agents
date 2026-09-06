@@ -1,5 +1,13 @@
 # PII for AI Agents
 
+![PII for AI Agents — portable project intelligence for any agent and any project](.github/assets/pii-for-ai-agents-infographic.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-2563EB.svg)](LICENSE)
+[![Node.js 18+](https://img.shields.io/badge/Node.js-18%2B-22C55E.svg)](package.json)
+![Runtime dependencies: zero](https://img.shields.io/badge/runtime_dependencies-zero-06B6D4.svg)
+
+**Developed by [AI UNLOCKED](https://aiunlock.co)**
+
 **Project Intelligence Index for AI Agents** is a portable, Markdown-first project memory layer. It gives a new AI agent a compact map of a project before the agent reads source files, content archives, research materials, or production assets.
 
 PII works with software, content, research, courses, games, films, series, automation, documentation, and mixed projects.
@@ -136,4 +144,4 @@ This repository contains the V1 MVP implementation. The package has not been pub
 
 ## License
 
-MIT
+[MIT](LICENSE) © 2026 [AI UNLOCKED](https://aiunlock.co)

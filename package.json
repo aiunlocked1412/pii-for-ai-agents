@@ -1,7 +1,19 @@
 {
   "name": "pii-for-ai-agents",
   "version": "0.1.0",
-  "description": "Portable project intelligence for AI agents",
+  "description": "Portable, Markdown-first project intelligence for AI agents",
+  "homepage": "https://aiunlock.co",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiunlocked1412/pii-for-ai-agents.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aiunlocked1412/pii-for-ai-agents/issues"
+  },
+  "author": {
+    "name": "AI UNLOCKED",
+    "url": "https://aiunlock.co"
+  },
   "type": "module",
   "bin": {
     "pindex": "bin/pindex.js"
